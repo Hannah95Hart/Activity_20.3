@@ -1,0 +1,44 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+ }
+  
+  
+ #hero {
+    background-image: url("../images/hero.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    height: 75vh;
+ }
+.navbar-light .navbar-nav .nav-link {
+    color:white !important;
+}
+.nav-item{
+    padding:20px;
+}
+
+h1{
+    font-size: bold;
+    color: white;
+    text-align:center;
+    padding:50px;
+}
+p{
+    text-align:center;
+}
+ 
+.jumbotron h1 span {
+    font-weight: 500;
+}
+h2{
+    text-align:center;
+    color:orange;
+    font-weight: 300;
+    padding:20px;
+}
+h3{
+    Text-align: center;
+    font-weight:900;
+    font-size:xx-large;
+    padding:20px;
+}
